@@ -2,3 +2,5 @@ This is a smaple file
 with updates 
 
 Now this is my first test
+
+Now let's test with the second test
